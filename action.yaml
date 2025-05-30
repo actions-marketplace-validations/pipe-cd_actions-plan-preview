@@ -25,7 +25,7 @@ inputs:
     required: false
     default: ''
   title:
-    description: "The title of the result comment to distinguish comments from multiple projects. "
+    description: 'The title shown at the top of the result comment to distinguish results from multiple projects.'
     required: false
     default: ""
 
