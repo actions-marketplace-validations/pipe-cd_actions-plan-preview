@@ -69,3 +69,5 @@ jobs:
 | timeout                         | Maximum amount of time to run.                                                                    |    no    | 5m            |
 | piped-handle-timeout            | Maximum amount of time to wait for piped handle the plan preview.                                 |    no    | 5m            |
 | sort-label-keys                 | The application label keys to sort the results by.                                                |    no    | ""            |
+| title                           | The title shown at the top of the result comment to distinguish results from multiple projects.   |    no    | ""            |
+
